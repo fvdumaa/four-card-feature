@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fvdumaa/four-card-feature)
-- Live Site URL: [Add live site URL here](https://fvdumaa.github.io/four-card-feature/)
+- Solution URL: [https://github.com/fvdumaa/four-card-feature](https://github.com/fvdumaa/four-card-feature)
+- Live Site URL: [https://github.com/fvdumaa/four-card-feature/settings/pages](https://fvdumaa.github.io/four-card-feature/)
 
 ## My process
 
